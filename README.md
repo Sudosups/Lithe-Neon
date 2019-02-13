@@ -63,7 +63,7 @@ $ extract the Lithe-service executable somewhere
 
 ### clone the repo
 $ git clone https://github.com/Sudosups/Lithe-Neon.git
-$ cd NBX-Linux-GUI
+$ cd Lithe-Linux-GUI
 
 ### install dependencies
 $ npm install
